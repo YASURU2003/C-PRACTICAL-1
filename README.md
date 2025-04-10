@@ -1,2 +1,2 @@
 # C-PRACTICAL-1
-This is just a simple restaurant menu made by using C language only. 
+This is just a simple restaurant menu made  using C language only. 
